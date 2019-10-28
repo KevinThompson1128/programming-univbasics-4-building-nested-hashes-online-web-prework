@@ -24,6 +24,7 @@ def monopoly_with_third_tier
 end
 
 def monopoly_with_fourth_tier
+  railroads[:names][:reading_railroad][:mortgage_value => "$100"]
   
   
   
